@@ -5,5 +5,5 @@
 
 **Skills**
 * C, C++, C#, 
-* Microsoft SQL Server, BigQuery 
-* Visual Studio, Vim
+* Microsoft SQL Server 
+* Visual Studio, Visual Studio Code, Vim
